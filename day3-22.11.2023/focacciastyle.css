@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
+header {
+  width: 60%;
+  margin: auto;
+  font-family: Playfair Display;
+}
+main {
+  width: 60%;
+  margin: auto;
+  font-family: Playfair Display;
+}
+.weight {
+  font-weight: 700;
+}
+.supertitle {
+  margin: auto;
+}
+.logo {
+  width: 200px;
+  margin: auto;
+}
+#FEAUTURED {
+  color: orangered;
+}
+#blockk {
+  display: block;
+}
